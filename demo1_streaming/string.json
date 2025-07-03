@@ -1,0 +1,7 @@
+{
+  "meta": { "count": 2 },
+  "items": [
+    { "id": 1, "tags": ["go", "json"] },
+    { "id": 2, "tags": ["stream", "parse"] }
+  ]
+}
